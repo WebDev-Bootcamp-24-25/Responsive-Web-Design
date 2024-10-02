@@ -40,9 +40,15 @@ label, input, legend, textarea {
     font-size: large;
     font-family: Helvetica;
 }
+
 label {
     text-align: left;
     display: block;
+    margin: 12px;
+}
+
+textarea {
+    margin: 15px;
 }
 
 hr {

@@ -4,6 +4,7 @@ body {
     background-size: cover;
     background-blend-mode: normal;
     background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 
 .main-body {
@@ -45,6 +46,7 @@ label {
     text-align: left;
     display: block;
     margin: 12px;
+    margin-bottom: 6px;
 }
 
 textarea {
